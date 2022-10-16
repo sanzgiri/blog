@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 08c18bb3-74eb-405a-a20b-b43db95fdc35
+      url: 'https://quartopub.com/sites/sanzgiri/hooped-on-data'
